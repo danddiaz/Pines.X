@@ -1,0 +1,12 @@
+Message[302] E:\DIGITALES\PINES.X\MAINPINES.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\DIGITALES\PINES.X\MAINPINES.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\DIGITALES\PINES.X\MAINPINES.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] E:\DIGITALES\PINES.X\MAINPINES.ASM 48 : Using default destination of 1 (file).
+Message[305] E:\DIGITALES\PINES.X\MAINPINES.ASM 54 : Using default destination of 1 (file).
+Message[305] E:\DIGITALES\PINES.X\MAINPINES.ASM 66 : Using default destination of 1 (file).
+Message[305] E:\DIGITALES\PINES.X\MAINPINES.ASM 68 : Using default destination of 1 (file).
+Message[305] E:\DIGITALES\PINES.X\MAINPINES.ASM 79 : Using default destination of 1 (file).
+Message[305] E:\DIGITALES\PINES.X\MAINPINES.ASM 82 : Using default destination of 1 (file).
+Warning[207] E:\DIGITALES\PINES.X\MAINPINES.ASM 90 : Found label after column 1. (REP_1)
+Warning[207] E:\DIGITALES\PINES.X\MAINPINES.ASM 94 : Found label after column 1. (REP_2)
+Warning[205] E:\DIGITALES\PINES.X\MAINPINES.ASM 101 : Found directive in column 1. (END)
